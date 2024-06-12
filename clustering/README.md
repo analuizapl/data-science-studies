@@ -1,6 +1,6 @@
-##Customer Personality Analysis Clustering
+## Customer Personality Analysis Clustering
 
-#Overview
+# Overview
 
 This project applies K-Means clustering to the Customer Personality Analysis dataset to group customers into distinct clusters based on their characteristics and behavior. The process includes data preprocessing, determining the optimal number of clusters using the Elbow method, fitting the K-Means algorithm, evaluating the clustering quality, and visualizing the results.
 
